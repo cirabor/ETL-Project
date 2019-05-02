@@ -1,2 +1,2 @@
-# ETL-Project
-ETL Group Project
+# ETL-project-cryptocurrency
+Extract, Transform, Load Datasets into MySQL
